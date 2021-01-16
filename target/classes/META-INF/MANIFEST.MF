@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: seenu
+Build-Jdk: 12.0.2
+Implementation-Title: repository
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.repository
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/atm-denominati
+ on-jpa/
+Created-By: Maven Integration for Eclipse
+
